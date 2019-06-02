@@ -6,7 +6,9 @@ import time
 def get_name(session):
     url = 'https://namefake.com/'
     try:
+        time.sleep(0.07)
         response = session.get(url, timeout=0.65)
+        print('resp')
     except requests.exceptions.ReadTimeout as e:
         print(e)
         return get_name(session)

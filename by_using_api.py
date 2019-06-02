@@ -1,12 +1,10 @@
 import json
 import requests
 import time
-from user_agent import generate_user_agent
 
 
 def get_name(session):
     url = 'http://api.namefake.com'
-    headers = {'User-Agent': generate_user_agent(device_type="desktop", os=('mac', 'linux'))}
     try:
         resp = session.get(url, verify=False, timeout=0.8)
     except requests.exceptions.ReadTimeout as e:
