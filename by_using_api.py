@@ -1,44 +1,39 @@
 import json
 import requests
-import timeit
-from requests.adapters import HTTPAdapter
-from urllib3.util import Retry
+import time
+from user_agent import generate_user_agent
 
 
-def get_name(url, session):
-    print(3)
-
-    resp = session.get(url)
-
-    data_json = json.loads(resp.text)
-    return data_json['name']
-
-
-def get_names(count=1):
-    print(2)
-    result = []
+def get_name(session):
     url = 'http://api.namefake.com'
+    headers = {'User-Agent': generate_user_agent(device_type="desktop", os=('mac', 'linux'))}
+    try:
+        resp = session.get(url, verify=False, timeout=0.8)
+    except requests.exceptions.ReadTimeout as e:
+        print(e)
+        return get_name(session)
+    except requests.exceptions.ConnectionError as e:
+        print(e)
+        time.sleep(3)
+        return get_name(session)
+    return json.loads(resp.text)['name']
 
-    session = requests.Session()
-    retry = Retry(connect=3, backoff_factor=0.5)
-    adapter = HTTPAdapter(max_retries=retry)
-    session.mount('http://', adapter)
-    session.mount('https://', adapter)
 
-    for idx in range(count):
-        print(idx)
-        name = get_name(url, session)
-        print(idx, '---', name)
-        result.append(name)
-    print(result)
+def get_names(count):
+    result = []
+
+    with requests.Session() as s:
+        while len(result) < count:
+            name = get_name(s)
+            result.append(name)
     return result
 
 
 if __name__ == '__main__':
-    print(1)
-    # 37 second / 53 second
-    # time = timeit.timeit('get_names(100)', 'from __main__ import get_names', number=1)
-    # print(time)
-    # timeit.timeit(get_names(5))
-    names = get_names(100)
-    print(names)
+    # Using api is slower than parsing html page
+
+    start_time = time.time()
+    r = get_names(100)
+    print("--- %s seconds ---" % (time.time() - start_time))
+    print(r)
+
