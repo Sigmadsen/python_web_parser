@@ -18,4 +18,8 @@ Ervin 2
 
 # Excluded strings: 
 ['Dr.', 'Prof.', 'DVM', 'II', 'Mr.', 'Mrs.', 'Sr.', 'Jr.', 'V', 'DDS', 'IV', 'I', 'III', 'PhD', 'Miss', 'MD', 'Ms.']
-`
+
+
+# Run tests:
+
+`python -m unittest -v tests.py`

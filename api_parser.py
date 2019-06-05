@@ -21,3 +21,7 @@ class ApiParser(AbstractParser):
             time.sleep(3)
             return self.get_name(session)
         return json.loads(response.text)['name']
+
+
+if __name__ == '__main__':
+    pass
