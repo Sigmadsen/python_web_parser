@@ -1,5 +1,5 @@
 # Run:
-`python parsing_html.py` 
+`python main.py` 
 
 # Output example:
 ```
@@ -17,4 +17,5 @@ Ervin 2
 ```
 
 # Excluded strings: 
-`['Dr.', 'Prof.', 'DVM', 'II', 'Mr.', 'Mrs.', 'Sr.', 'Jr.', 'V', 'DDS', 'IV', 'I', 'III', 'PhD', 'Miss', 'MD', 'Ms.']`
+['Dr.', 'Prof.', 'DVM', 'II', 'Mr.', 'Mrs.', 'Sr.', 'Jr.', 'V', 'DDS', 'IV', 'I', 'III', 'PhD', 'Miss', 'MD', 'Ms.']
+`
