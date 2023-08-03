@@ -1,0 +1,307 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Рейдбоссы уровня 30-39 в Lineage 2 - Lineage 2 - L2Vika.ru - Vizavi</title>
+<link rel="SHORTCUT ICON" href="../../img/l2v.ico">
+
+<meta name="robots" content="all">
+<meta name="Description" content="Рейдбоссы уровня 30-39 в Lineage 2 - дроп, квесты на вызов РБ, расположение, Эпик РБ - L2Vika.ru - Vizavi">
+<meta name="Keywords" content="Рейдбоссы уровня 30-39 в Lineage 2, L2Vika, Lineage 2, Vizavi, lineage II, l2, la2, lineage, interlude, freya, gracia, kamael, gnom, крафт, спойл, гном, гномка, гнома, крафтер, спойлер, mmorpg ">
+	<link rel="stylesheet" href="../../css/vi-r1.css" type="text/css" media="screen, projection" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64086248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="header">
+<center>
+<table width="95%" border="0">
+  <tr>
+<td>
+<div align="left"><img src="../../img/logo-l2vika.png" width="100%" alt="Логотип l2vika.ru">    
+</div></td>
+<td>
+<div align="right"><a href="https://overworld.pro/" target="_blank"><img src="../../img/l2s.gif" width="100%" alt="Баннер l2vika.ru"></a>
+</div>
+
+<div class="slogan">
+Рейдбоссы уровня 30-39 в Lineage 2
+</div><!--slogan-->
+
+</td>
+</tr>
+</table>
+</center>
+
+</div><!-- #header-->
+
+<div class="menu">
+<center>
+<strong>
+| <a href="https://l2vika.ru/kraft.html">КРАФТ</a> | <a href="https://l2vika.ru/spoil.html">СПОЙЛ</a> | <a href="https://l2vika.ru/kvesty.html">КВЕСТЫ</a> | <a href="https://l2vika.ru/lokacii.html">ЛОКАЦИИ</a> | <a href="https://l2vika.ru/raid-boss.html">РЕЙДБОССЫ</a> | <a href="https://l2vika.ru/items/all-items-lineage.html">АЙТЕМЫ</a> | <a href="https://l2vika.ru/igra.html">ГАЙДЫ</a> | <a href="https://l2vika.ru/rejting/rejting.html">РЕЙТИНГИ</a> | <a href="https://l2vika.ru/tvorchestvo/creative.html">ТВОРЧЕСТВО</a> |
+</strong>
+</center>
+</div><!-- #menu-->
+
+<div class="middle">
+
+<div class="container">
+
+<div class="content">
+<br>
+<!--vi-g1//-->
+<center>
+<a href="https://elmorelab.com/" target="_blank"><img src="https://l2vika.ru/img/l2elm.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<br>
+<center>
+<h1>Рейдбоссы уровня 30-39 в Lineage 2</h1><br>
+</center>
+<br>
+<!--vi-UH//-->
+<br>
+<!--v2ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-2 -->
+<div id="yandex_rtb_R-A-251368-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-2",
+                renderTo: "yandex_rtb_R-A-251368-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br>
+<br>
+</noindex>
+РБ  левел 30-39 - мы уже немного пофармили к этому времени рейд-боссов, на 32-м уровне получили скилл френзи, поэтому как-бы уже и дестры, уже умеем сливаться под лимиты и фармить нубо РБ. Оттачиваем свои навыки на рб 30-х уровней, дроп конечно нафик не нужен, но иногда случаются и плюшки, как-то мне выпало сразу 36 брига тапок с одного РБ.<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/raidboss-30-39-1.jpg" alt="Рейдбоссы уровня 30-39 в Lineage 2 - L2Vika.ru">
+</center>
+<br>
+<br>
+<!--vi-g2//-->
+<!--v3ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-3 -->
+<div id="yandex_rtb_R-A-251368-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-3",
+                renderTo: "yandex_rtb_R-A-251368-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/agent-beres-meana.html">Agent of Beres Meana</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/apepi.html">Apepi</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/boss-akata.html">Boss Akata</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/cats-eye-bandit.html">Cat's Eye Bandit</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/giant-wasteland-basilisk.html">Giant Wasteland Basilisk</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/ragraman.html">Ragraman</a><br>
+<br>
+Level 30 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/turek-mercenary-captain.html">Turek Mercenary Captain</a><br>
+<br>
+Level 32 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/captain-queens-royal-guards.html">Captain of Queen's Royal Guards</a><br>
+<br>
+Level 32 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/skyla.html">Skyla</a><br>
+<br>
+Level 33 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/corsair-captain-kylon.html">Corsair Captain Kylon</a><br>
+<br>
+Level 33 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/nurka-messenger.html">Nurka's Messenger</a><br>
+<br>
+Level 33 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/vuku-grand-seer-gharmash.html">Vuku Grand Seer Gharmash</a><br>
+<br>
+Level 34 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/breka-warlock-pastu.html">Breka Warlock Pastu</a><br>
+<br>
+Level 34 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/cronos-servitor-mumu.html">Cronos's Servitor Mumu</a><br>
+<br>
+Level 34 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/revenant-sir-calibus.html">Revenant of Sir Calibus</a><br>
+<br>
+Level 34 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/stakato-queen-zyrnna.html">Stakato Queen Zyrnna</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/chertuba-great-soul.html">Chertuba of Great Soul</a><br>
+<br>
+<br>
+<!--vi-g6-s//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="9347463210"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/eye-beleth.html">Eye of Beleth</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/flame-lord-shadar.html">Flame Lord Shadar</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/gargoyle-lord-sirocco.html">Gargoyle Lord Sirocco</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/guilotine.html">Guilotine Warden of the Execution Grounds</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/red-eye-captain-trakia.html">Red Eye Captain Trakia</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/remmel.html">Remmel</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/sejarr-servitor.html">Sejarr's Servitor</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/soul-collector-acheron.html">Soul Collector Acheron</a><br>
+<br>
+Level 35 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/tasaba-patriarch-hellena.html">Tasaba Patriarch Hellena</a><br>
+<br>
+Level 36 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/evil-spirit-tempest.html">Evil Spirit Tempest</a><br>
+<br>
+Level 36 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/sebek.html">Sebek</a><br>
+<br>
+Level 37 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/rayito-looter.html">Rayito the Looter</a><br>
+<br>
+Level 38 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/anakazel-38.html">Anakazel (private-rift)</a><br>
+<br>
+Level 38 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/lizardmen-leader-hellion.html">Lizardmen Leader Hellion</a><br>
+<br>
+Level 38 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/premo-prime.html">Premo Prime</a><br>
+<br>
+Level 39 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/leader-cat-gang.html">Leader of Cat Gang</a><br>
+<br>
+Level 39 Raid Boss <a href="https://l2vika.ru/raidboss/30-39/nellis-vengeful-spirit.html">Nellis Vengeful Spirit</a><br>
+<br>
+<br>
+<!--vi-g3//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vika2-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="8296615315"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+<!--vi-g3//-->
+<!--v2r//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-4 -->
+<div id="yandex_rtb_R-A-251368-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-4",
+                renderTo: "yandex_rtb_R-A-251368-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+<br>
+Ваши сопартийцы уже многое могут, даже без вас, а с вами ещё лучше. Они уже привыкли разбираться и с хилерами, и с лучниками, знают что бафать под нежить, какое оружие использовать под того или иного босса, скоро и вторая профа. Я обычно докачиваю дестра до второй профы, и пока так его оставляю, а сама бегаю с 40-го уровня на сабе дестра какой-нибудь гномкой.<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/raidboss-30-39.jpg" alt="Рейдбоссы уровня 30-39 в Lineage 2 - L2Vika.ru">
+</center>
+<br>
+<br>
+<a href="javascript:history.back()">Вернуться на предыдущую страницу</a><br>
+<br>
+<br>
+<br>
+<a href="https://l2vika.ru/index.html">на главную</a> &nbsp;<a href="https://l2vika.ru/karta-sajta.html">поиск по сайту</a> &nbsp;<a href="https://l2vika.ru/raid-boss.html">все рейдбоссы Lineage II</a>
+<br>
+<!--inn-yv1-ark//-->
+<br>
+<!--v-rk1//-->
+<center>
+<a href="https://l2vika.ru/rejting/anyway/pravila.html" target="_blank"><img src="https://l2vika.ru/img/l2vika-2.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<!-- #v-rk1-->
+
+</div><!-- #content-->
+
+</div><!-- #container-->
+
+</div><!-- #middle-->
+
+
+
+<div class="footer">
+<div class="copy">Copyright &copy; 2008-2023 <a href="https://l2vika.ru/">L2Vika.ru</a>
+</div>
+<center>
+
+<!--LiveInternet counter-->
+
+
+</center>
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+</body>
+</html>
