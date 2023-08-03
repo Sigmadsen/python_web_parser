@@ -1,0 +1,302 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Рейдбоссы уровня 50-59 в Lineage 2 - L2Vika.ru - Vizavi</title>
+<link rel="SHORTCUT ICON" href="../../img/l2v.ico">
+
+<meta name="robots" content="all">
+<meta name="Description" content="Рейдбоссы уровня 50-59 в Lineage 2 - дроп, квесты на вызов РБ, расположение, Эпик РБ - L2Vika.ru - Vizavi">
+<meta name="Keywords" content="Рейдбоссы уровня 50-59 в Lineage 2, L2Vika, Lineage 2, Vizavi, lineage II, l2, la2, lineage, interlude, freya, gracia, kamael, gnom, крафт, спойл, гном, гномка, гнома, крафтер, спойлер, mmorpg ">
+	<link rel="stylesheet" href="../../css/vi-r1.css" type="text/css" media="screen, projection" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64086248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="header">
+<center>
+<table width="95%" border="0">
+  <tr>
+<td>
+<div align="left"><img src="../../img/logo-l2vika.png" width="100%" alt="Логотип l2vika.ru">
+</div></td>
+<td>
+<div align="right"><a href="https://overworld.pro/" target="_blank"><img src="../../img/l2s.gif" width="100%" alt="Баннер l2vika.ru"></a>
+</div>
+
+<div class="slogan">
+Рейдбоссы уровня 50-59 в Lineage 2
+</div><!--slogan-->
+
+</td>
+</tr>
+</table>
+</center>
+
+</div><!-- #header-->
+
+<div class="menu">
+<center>
+<strong>
+| <a href="https://l2vika.ru/kraft.html">КРАФТ</a> | <a href="https://l2vika.ru/spoil.html">СПОЙЛ</a> | <a href="https://l2vika.ru/kvesty.html">КВЕСТЫ</a> | <a href="https://l2vika.ru/lokacii.html">ЛОКАЦИИ</a> | <a href="https://l2vika.ru/raid-boss.html">РЕЙДБОССЫ</a> | <a href="https://l2vika.ru/items/all-items-lineage.html">АЙТЕМЫ</a> | <a href="https://l2vika.ru/igra.html">ГАЙДЫ</a> | <a href="https://l2vika.ru/rejting/rejting.html">РЕЙТИНГИ</a> | <a href="https://l2vika.ru/tvorchestvo/creative.html">ТВОРЧЕСТВО</a> |
+</strong>
+</center>
+</div><!-- #menu-->
+
+<div class="middle">
+
+<div class="container">
+
+<div class="content">
+<br>
+<!--vi-g1//-->
+<center>
+<a href="https://elmorelab.com/" target="_blank"><img src="https://l2vika.ru/img/l2elm.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<br>
+<center>
+<h1>Рейдбоссы уровня 50-59 в Lineage 2</h1><br>
+</center>
+<br>
+<!--vi-UH//-->
+<br>
+<!--v2ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-2 -->
+<div id="yandex_rtb_R-A-251368-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-2",
+                renderTo: "yandex_rtb_R-A-251368-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br>
+<br>
+</noindex>
+Левел 50-59 - это рейдбоссы, с которых мы получаем в основном лоу А-грейд (есть несколько РБ с дропом дк и таллум перчей и шлемов), топ Б броню, всевозможные пушки Б грейда (так как крафтить не вариант в связи с проблемами по выбиванию рецептов из мобов) и всевозможные маммоновские краски +4 -4. Да и так интересно побегать по РБ на средних уровнях, потому как за многими из них особо не следят и есть неплохой шанс застать их живыми.<br>
+<br>
+<br>
+<!--vi-g2//-->
+<!--v3ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-3 -->
+<div id="yandex_rtb_R-A-251368-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-3",
+                renderTo: "yandex_rtb_R-A-251368-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/carnamakos.html">Carnamakos</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/liliths-witch-marilion.html">Lilith's Witch Marilion</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/berun.html">Messenger of Fairy Queen Berun</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/cursed-clara.html">Cursed Clara</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/gato.html">Carnage Lord Gato</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/peasant-leader.html">Ghost of Peasant Leader</a><br>
+<br>
+Level 50 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/tillion.html">Zakens Chief Mate Tillion</a><br>
+<br>
+Level 51 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/deadman-ereve.html">Deadman Ereve</a><br>
+<br>
+Level 51 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/verfa.html">Verfa</a><br>
+<br>
+Level 52 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/pingolpin.html">Fafurions Envoy Pingolpin</a><br>
+<br>
+Level 52 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/shaka.html">Captain of Red Flag Shaka</a><br>
+<br>
+Level 52 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/gigantic-chaos-golem.html">Gigantic Chaos Golem</a><br>
+<br>
+Level 52 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/grave-robber-kim.html">Grave Robber Kim</a><br>
+<br>
+Level 53 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/atraiban.html">Atraiban</a><br>
+<br>
+Level 53 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/dark-shaman-varangka.html">Dark Shaman Varangka</a><br>
+<br>
+Level 53 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/kenishee.html">Magus Kenishee</a><br>
+<br>
+Level 54 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/paniel.html">Paniel the Unicorn</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/barda.html">Bandit Leader Barda</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/beleths-seer-sephia.html">Beleth's Seer Sephia</a><br>
+<br>
+<br>
+<!--vi-g6-s//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="9347463210"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/black-lily.html">Black Lily</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/furious-thieles.html">Furious Thieles</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/ghost-knight-kabed.html">Ghost Knight Kabed</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/cerberon.html">Pagan Watcher Cerberon</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/krantz.html">Zakens Butcher Krantz</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/niniel.html">Evas Spirit Niniel</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/ruell.html">Enchanted Forest Watcher Ruell</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/tamash.html">Harit Hero Tamash</a><br>
+<br>
+Level 55 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/sorcerer-isirr.html">Sorcerer Isirr</a><br>
+<br>
+Level 56 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/garangky.html">Harit Guardian Garangky</a><br>
+<br>
+Level 56 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/leo.html">Refugee Hopeful Leo</a><br>
+<br>
+Level 57 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/ragoth.html">Timak Seer Ragoth</a><br>
+<br>
+Level 58 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/anakazel-58.html">Anakazel (captain-rift)</a><br>
+<br>
+Level 58 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/millenu.html">Evas Guardian Millenu</a><br>
+<br>
+Level 59 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/boar.html">Soulless Wild Boar</a><br>
+<br>
+Level 59 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/brukunt.html">Abyss Brukunt</a><br>
+<br>
+Level 59 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/demon-kurikups.html">Demon Kurikups</a><br>
+<br>
+Level 59 Raid Boss <a href="https://l2vika.ru/raidboss/50-59/ice-royal-guard.html">Captain of the Ice Queen's Royal Guard</a><br>
+<br>
+<br>
+<a href="javascript:history.back()">Вернуться на предыдущую страницу</a><br>
+<br>
+<br>
+<br>
+<a href="https://l2vika.ru/raidboss/raidboss-map/raidboss-map.html">карта всех рейдбоссов</a> &nbsp;<a href="https://l2vika.ru/index.html">на главную</a> &nbsp;<a href="https://l2vika.ru/karta-sajta.html">поиск по сайту</a> &nbsp;<a href="https://l2vika.ru/raid-boss.html">все рейдбоссы Lineage 2</a>
+<br>
+<br>
+<!--vi-g3//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vika2-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="8296615315"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+<!--vi-g3//-->
+<!--v2r//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-4 -->
+<div id="yandex_rtb_R-A-251368-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-4",
+                renderTo: "yandex_rtb_R-A-251368-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+<!--inn-yv1-ark//-->
+<br>
+<!--v-rk1//-->
+<center>
+<a href="https://l2vika.ru/rejting/anyway/pravila.html" target="_blank"><img src="https://l2vika.ru/img/l2vika-2.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<!-- #v-rk1-->
+
+</div><!-- #content-->
+
+</div><!-- #container-->
+
+</div><!-- #middle-->
+
+
+
+<div class="footer">
+<div class="copy">Copyright &copy; 2008-2023 <a href="https://l2vika.ru/">L2Vika.ru</a>
+</div>
+<center>
+
+<!--LiveInternet counter-->
+
+
+</center>
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+</body>
+</html>

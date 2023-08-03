@@ -1,0 +1,300 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Рейдбоссы уровня 70-79 в Lineage 2 - L2Vika.ru - Vizavi</title>
+<link rel="SHORTCUT ICON" href="../../img/l2v.ico">
+
+<meta name="robots" content="all">
+<meta name="Description" content="Рейдбоссы уровня 70-79 в Lineage 2 - дроп, квесты на вызов РБ, расположение, Эпик РБ - L2Vika.ru - Vizavi">
+<meta name="Keywords" content="Рейдбоссы уровня 70-79 в Lineage 2, L2Vika, Lineage 2, Vizavi, lineage II, l2, la2, lineage, interlude, freya, gracia, kamael, gnom, крафт, спойл, гном, гномка, гнома, крафтер, спойлер, mmorpg ">
+	<link rel="stylesheet" href="../../css/vi-r1.css" type="text/css" media="screen, projection" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64086248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="header">
+<center>
+<table width="95%" border="0">
+  <tr>
+<td>
+<div align="left"><img src="../../img/logo-l2vika.png" width="100%" alt="Логотип l2vika.ru">
+</div></td>
+<td>
+<div align="right"><a href="https://overworld.pro/" target="_blank"><img src="../../img/l2s.gif" width="100%" alt="Баннер l2vika.ru"></a>
+</div>
+
+<div class="slogan">
+Рейдбоссы уровня 70-79 в Lineage 2
+</div><!--slogan-->
+
+</td>
+</tr>
+</table>
+</center>
+
+</div><!-- #header-->
+
+<div class="menu">
+<center>
+<strong>
+| <a href="https://l2vika.ru/kraft.html">КРАФТ</a> | <a href="https://l2vika.ru/spoil.html">СПОЙЛ</a> | <a href="https://l2vika.ru/kvesty.html">КВЕСТЫ</a> | <a href="https://l2vika.ru/lokacii.html">ЛОКАЦИИ</a> | <a href="https://l2vika.ru/raid-boss.html">РЕЙДБОССЫ</a> | <a href="https://l2vika.ru/items/all-items-lineage.html">АЙТЕМЫ</a> | <a href="https://l2vika.ru/igra.html">ГАЙДЫ</a> | <a href="https://l2vika.ru/rejting/rejting.html">РЕЙТИНГИ</a> | <a href="https://l2vika.ru/tvorchestvo/creative.html">ТВОРЧЕСТВО</a> |
+</strong>
+</center>
+</div><!-- #menu-->
+
+<div class="middle">
+
+<div class="container">
+
+<div class="content">
+<br>
+<!--vi-g1//-->
+<center>
+<a href="https://elmorelab.com/" target="_blank"><img src="https://l2vika.ru/img/l2elm.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<br>
+<center>
+<h1>Рейдбоссы уровня 70-79 в Lineage 2</h1><br>
+</center>
+<br>
+<!--vi-UH//-->
+<br>
+<!--v2ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-2 -->
+<div id="yandex_rtb_R-A-251368-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-2",
+                renderTo: "yandex_rtb_R-A-251368-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br>
+<br>
+</noindex>
+Одни из самых "вкусных" РБ - это левел 70-79, дропом идут A и S grade пушки и шмот, блессед арморки и веапонки.<br>
+<br>
+<br>
+<!--vi-g2//-->
+<!--v3ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-3 -->
+<div id="yandex_rtb_R-A-251368-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-3",
+                renderTo: "yandex_rtb_R-A-251368-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/zakaron.html">Anakims Nemesis Zakaron</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/behemoth.html">Beast Lord Behemoth</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/lokness.html">Fafurions Herald Lokness</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/barakiel.html">Flame of Splendor Barakiel</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/korim.html">Korim</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/anor.html">Meanas Anor</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/themis.html">Palibati Queen Themis</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/cabrio.html">Shilens Messenger Cabrio</a><br>
+<br>
+Level 70 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/skylancer.html">Roaring Skylancer</a><br>
+<br>
+Level 71 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/eilhalder-von-hellmann.html">Eilhalder von Hellmann</a><br>
+<br>
+Level 71 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/mardil.html">Immortal Savior Mardil</a><br>
+<br>
+Level 72 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/tanatos.html">Doom Blade Tanatos</a><br>
+<br>
+Level 72 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/kandra.html">Vanor Chief Kandra</a><br>
+<br>
+Level 72 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/sheshark.html">Water Dragon Seer Sheshark</a><br>
+<br>
+Level 73 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/hallate.html">Death Lord Hallate</a><br>
+<br>
+Level 73 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/plague-golem.html">Plague Golem</a><br>
+<br>
+Level 74 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/cloe.html">Antharas Priest Cloe</a><br>
+<br>
+<br>
+<!--vi-g6-s//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="9347463210"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+Level 74 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/bumbalump.html">Icicle Emperor Bumbalump</a><br>
+<br>
+Level 74 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/sobekk.html">Krokian Padisha Sobekk</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/benom.html">Triols Leader Benom</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/decarbia.html">Bloody Empress Decarbia</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/ipos.html">Death Lord Ipos</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/snax.html">Death Lord Shax</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/kernon.html">Kernon</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/lesser-giant-olkuth.html">Lesser Giant Olkuth</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/naga.html">Storm Winged Naga</a><br>
+<br>
+Level 75 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/palatanos.html">Palatanos of Horrific Power</a><br>
+<br>
+Level 76 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/flamestone-giant.html">Flamestone Giant</a><br>
+<br>
+Level 76 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/ashakiel.html">Ocean Flame Ashakiel</a><br>
+<br>
+Level 78 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/hestia.html">Hestia, Guardian Deity of the Hot Springs</a><br>
+<br>
+Level 78 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/anakazel-78.html">Anakazel (hero rift)</a><br>
+<br>
+Level 78 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/glaki.html">Last Lesser Giant Glaki</a><br>
+<br>
+Level 78 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/daimon-white-eyed.html">Daimon the White-Eyed</a><br>
+<br>
+Level 78 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/shuriel.html">Fire of Wrath Shuriel</a><br>
+<br>
+Level 79 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/longhorn-golkonda.html">Longhorn Golkonda</a><br>
+<br>
+Level 79 Raid Boss <a href="https://l2vika.ru/raidboss/70-79/cherub-galaxia.html">Cherub Galaxia</a><br>
+<br>
+<br>
+<a href="javascript:history.back()">Вернуться на предыдущую страницу</a><br>
+<br>
+<br>
+<br>
+<a href="https://l2vika.ru/raidboss/raidboss-map/raidboss-map.html">карта рейдбоссов</a> &nbsp;<a href="https://l2vika.ru/index.html">на главную</a> &nbsp;<a href="https://l2vika.ru/karta-sajta.html">поиск по сайту</a> &nbsp;<a href="https://l2vika.ru/raid-boss.html">все рейдбоссы Lineage 2</a>
+<br>
+<br>
+<!--vi-g3//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vika2-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="8296615315"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+<!--vi-g3//-->
+<!--v2r//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-4 -->
+<div id="yandex_rtb_R-A-251368-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-4",
+                renderTo: "yandex_rtb_R-A-251368-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+<!--inn-yv1-ark//-->
+<br>
+<!--v-rk1//-->
+<center>
+<a href="https://l2vika.ru/rejting/anyway/pravila.html" target="_blank"><img src="https://l2vika.ru/img/l2vika-2.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<!-- #v-rk1-->
+
+</div><!-- #content-->
+
+</div><!-- #container-->
+
+</div><!-- #middle-->
+
+
+
+<div class="footer">
+<div class="copy">Copyright &copy; 2008-2023 <a href="https://l2vika.ru/">L2Vika.ru</a>
+</div>
+<center>
+
+<!--LiveInternet counter-->
+
+
+</center>
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+</body>
+</html>

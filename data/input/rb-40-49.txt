@@ -1,0 +1,304 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Рейдбоссы уровня 40-49 в Lineage 2 - L2Vika.ru - Vizavi</title>
+<link rel="SHORTCUT ICON" href="../../img/l2v.ico">
+
+<meta name="robots" content="all">
+<meta name="Description" content="Рейдбоссы уровня 40-49 в Lineage 2 - дроп, квесты на вызов РБ, расположение, Эпик РБ - L2Vika.ru - Vizavi">
+<meta name="Keywords" content="Рейдбоссы уровня 40-49 в Lineage 2, L2Vika, Lineage 2, Vizavi, lineage II, l2, la2, lineage, interlude, freya, gracia, kamael, gnom, крафт, спойл, гном, гномка, гнома, крафтер, спойлер, mmorpg ">
+	<link rel="stylesheet" href="../../css/vi-r1.css" type="text/css" media="screen, projection" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64086248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="header">
+<center>
+<table width="95%" border="0">
+  <tr>
+<td>
+<div align="left"><img src="../../img/logo-l2vika.png" width="100%" alt="Логотип l2vika.ru">
+</div></td>
+<td>
+<div align="right"><a href="https://overworld.pro/" target="_blank"><img src="../../img/l2s.gif" width="100%" alt="Баннер l2vika.ru"></a>
+</div>
+
+<div class="slogan">
+Рейдбоссы уровня 40-49 в Lineage 2
+</div><!--slogan-->
+
+</td>
+</tr>
+</table>
+</center>
+
+</div><!-- #header-->
+
+<div class="menu">
+<center>
+<strong>
+| <a href="https://l2vika.ru/kraft.html">КРАФТ</a> | <a href="https://l2vika.ru/spoil.html">СПОЙЛ</a> | <a href="https://l2vika.ru/kvesty.html">КВЕСТЫ</a> | <a href="https://l2vika.ru/lokacii.html">ЛОКАЦИИ</a> | <a href="https://l2vika.ru/raid-boss.html">РЕЙДБОССЫ</a> | <a href="https://l2vika.ru/items/all-items-lineage.html">АЙТЕМЫ</a> | <a href="https://l2vika.ru/igra.html">ГАЙДЫ</a> | <a href="https://l2vika.ru/rejting/rejting.html">РЕЙТИНГИ</a> | <a href="https://l2vika.ru/tvorchestvo/creative.html">ТВОРЧЕСТВО</a> |
+</strong>
+</center>
+</div><!-- #menu-->
+
+<div class="middle">
+
+<div class="container">
+
+<div class="content">
+<br>
+<!--vi-g1//-->
+<center>
+<a href="https://elmorelab.com/" target="_blank"><img src="https://l2vika.ru/img/l2elm.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<br>
+<center>
+<h1>Рейдбоссы уровня 40-49 в Lineage 2</h1><br>
+</center>
+<br>
+<!--vi-UH//-->
+<br>
+<!--v2ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-2 -->
+<div id="yandex_rtb_R-A-251368-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-2",
+                renderTo: "yandex_rtb_R-A-251368-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br>
+<br>
+</noindex>
+Вдоволь нарезвившись на мелких РБ до 40-го уровня, мы может себя уже почувствовать немного разобравшимися в механизме фарма рейдбоссов, так что сваливаем в одну большую кучу всё то, что вы навыбивали раньше, одеваемся в Ц грейд и идём "изучать" боссов от 40-го до 49-го левела. Я обычно этот процесс провожу или мелким дестром или гномкой на сабе дестра.<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/raidboss-40-49-1.jpg" alt="Рейдбоссы уровня 40-49 в Lineage 2 - L2Vika.ru">
+</center>
+<br>
+Левел 40-49 - это рейдбоссы, с которых мы получаем все Ц-грейд шмотки и оружие(только с одного рб 40 левела падает топ Д оружие), половина из этих предметов конечно продаётся в люксоре, но есть и эксклюзивные вещички. Интересен дроп с них ещё и тем, что с рейдбосса может упасть не одна, а много одинаковых вещей, помню дроп 20 тека тапок сразу, и ещё впечатляет дроп кусков, как вам например 700 кеев на кармиан тапки? Украфтитесь все ). Вкусен дроп Ц арморок, когда с пары РБ можно заточить Ц сет на +6.<br>
+<br>
+<br>
+<!--vi-g2//-->
+<!--v3ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-3 -->
+<div id="yandex_rtb_R-A-251368-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-3",
+                renderTo: "yandex_rtb_R-A-251368-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/fafurion-page-sika.html">Fafurion's Page Sika</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/gwindorr.html">Gwindorr</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/icarus-sample-1.html">Icarus Sample 1</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/leto-chief-talkin.html">Leto Chief Talkin</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/nakondas.html">Nakondas</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/road-scavenger-leader.html">Road Scavenger Leader</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/shaman-king-selu.html">Shaman King Selu</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/water-couatle-ateka.html">Water Couatle Ateka</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/water-spirit-lian.html">Water Spirit Lian</a><br>
+<br>
+Level 40 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/wizard-storm-teruk.html">Wizard of Storm Teruk</a><br>
+<br>
+Level 42 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/retreat-spider-cletu.html">Retreat Spider Cletu</a><br>
+<br>
+Level 43 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/crazy-mechanic-golem.html">Crazy Mechanic Golem</a><br>
+<br>
+Level 43 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/earth-protector-panathen.html">Earth Protector Panathen</a><br>
+<br>
+Level 44 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/dread-avenger-kraven.html">Dread Avenger Kraven</a><br>
+<br>
+Level 44 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/flamestone-golem.html">Flamestone Golem</a><br>
+<br>
+Level 44 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/rotten-tree-repiro.html">Rotten Tree Repiro</a><br>
+<br>
+<br>
+<!--vi-g6-s//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="9347463210"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+Level 44 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/thief-kelbar.html">Thief Kelbar</a><br>
+<br>
+Level 44 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/timak-orc-chief-ranger.html">Timak Orc Chief Ranger</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/archon-suscepter.html">Archon Suscepter</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/biconne-blue-sky.html">Biconne of Blue Sky</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/evil-spirit-cyrion.html">Evil Spirit Cyrion</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/fafurion-henchman-istary.html">Fafurion's Henchman Istary</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/iron-giant-totem.html">Iron Giant Totem</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/shacram.html">Shacram</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/tiger-king-karuta.html">Tiger King Karuta</a><br>
+<br>
+Level 45 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/timak-orc-gosmos.html">Timak Orc Gosmos</a><br>
+<br>
+Level 47 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/barion.html">Barion</a><br>
+<br>
+Level 47 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/necrosentinel-royal-guard.html">Necrosentinel Royal Guard</a><br>
+<br>
+Level 48 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/anakazel-48.html">Anakazel (officer-rift)</a><br>
+<br>
+Level 48 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/king-tarlk.html">King Tarlk</a><br>
+<br>
+Level 48 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/orfens-handmaiden.html">Orfens Handmaiden</a><br>
+<br>
+Level 49 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/karte.html">Karte</a><br>
+<br>
+Level 49 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/katu-van-leader-atui.html">Katu Van Leader Atui</a><br>
+<br>
+Level 49 Raid Boss <a href="https://l2vika.ru/raidboss/40-49/mirror-of-oblivion.html">Mirror of Oblivion</a><br>
+<br>
+<br>
+<!--vi-g3//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vika2-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="8296615315"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+<!--vi-g3//-->
+<!--v2r//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-4 -->
+<div id="yandex_rtb_R-A-251368-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-4",
+                renderTo: "yandex_rtb_R-A-251368-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/raidboss-40-49-2.jpg" alt="Рейдбоссы уровня 40-49 в Lineage 2 - L2Vika.ru">
+</center>
+<br>
+<a href="javascript:history.back()">Вернуться на предыдущую страницу</a><br>
+<br>
+<br>
+<a href="https://l2vika.ru/raidboss/raidboss-map/raidboss-map.html">карта рейдбоссов</a> &nbsp;<a href="https://l2vika.ru/index.html">на главную</a> &nbsp;<a href="https://l2vika.ru/karta-sajta.html">поиск по сайту</a> &nbsp;<a href="https://l2vika.ru/raid-boss.html">все рейдбоссы Lineage 2</a>
+<br>
+<!--inn-yv1-ark//-->
+<br>
+<!--v-rk1//-->
+<center>
+<a href="https://l2vika.ru/rejting/anyway/pravila.html" target="_blank"><img src="https://l2vika.ru/img/l2vika-2.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<!-- #v-rk1-->
+
+</div><!-- #content-->
+
+</div><!-- #container-->
+
+</div><!-- #middle-->
+
+
+
+<div class="footer">
+<div class="copy">Copyright &copy; 2008-2023 <a href="https://l2vika.ru/">L2Vika.ru</a>
+</div>
+<center>
+
+<!--LiveInternet counter-->
+
+
+</center>
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+</body>
+</html>

@@ -1,0 +1,295 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Рейдбоссы уровня 80-87 в Lineage 2 - Lineage 2 - L2Vika.ru - Vizavi</title>
+<link rel="SHORTCUT ICON" href="../../img/l2v.ico">
+
+<meta name="robots" content="all">
+<meta name="Description" content="Рейдбоссы уровня 80-87 в Lineage 2 - дроп, квесты на вызов РБ, расположение, Эпик РБ - L2Vika.ru - Vizavi">
+<meta name="Keywords" content="Рейдбоссы уровня 80-87 в Lineage 2, L2Vika, Lineage 2, Vizavi, lineage II, l2, la2, lineage, interlude, freya, gracia, kamael, gnom, крафт, спойл, гном, гномка, гнома, крафтер, спойлер, mmorpg ">
+	<link rel="stylesheet" href="../../css/vi-r1.css" type="text/css" media="screen, projection" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64086248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="header">
+<center>
+<table width="95%" border="0">
+  <tr>
+<td>
+<div align="left"><img src="../../img/logo-l2vika.png" width="100%" alt="Логотип l2vika.ru">
+</div></td>
+<td>
+<div align="right"><a href="https://overworld.pro/" target="_blank"><img src="../../img/l2s.gif" width="100%" alt="Баннер l2vika.ru"></a>
+</div>
+
+<div class="slogan">
+Рейдбоссы уровня 80-87 в Lineage 2
+</div><!--slogan-->
+
+</td>
+</tr>
+</table>
+</center>
+
+</div><!-- #header-->
+
+<div class="menu">
+<center>
+<strong>
+| <a href="https://l2vika.ru/kraft.html">КРАФТ</a> | <a href="https://l2vika.ru/spoil.html">СПОЙЛ</a> | <a href="https://l2vika.ru/kvesty.html">КВЕСТЫ</a> | <a href="https://l2vika.ru/lokacii.html">ЛОКАЦИИ</a> | <a href="https://l2vika.ru/raid-boss.html">РЕЙДБОССЫ</a> | <a href="https://l2vika.ru/items/all-items-lineage.html">АЙТЕМЫ</a> | <a href="https://l2vika.ru/igra.html">ГАЙДЫ</a> | <a href="https://l2vika.ru/rejting/rejting.html">РЕЙТИНГИ</a> | <a href="https://l2vika.ru/tvorchestvo/creative.html">ТВОРЧЕСТВО</a> |
+</strong>
+</center>
+</div><!-- #menu-->
+
+<div class="middle">
+
+<div class="container">
+
+<div class="content">
+<br>
+<!--vi-g1//-->
+<center>
+<a href="https://elmorelab.com/" target="_blank"><img src="https://l2vika.ru/img/l2elm.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<br>
+<center>
+<h1>Рейдбоссы уровня 80-87 в Lineage 2</h1><br>
+</center>
+<br>
+<!--vi-UH//-->
+<br>
+<!--v2ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-2 -->
+<div id="yandex_rtb_R-A-251368-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-2",
+                renderTo: "yandex_rtb_R-A-251368-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br>
+<br>
+</noindex>
+РБ  левел 80-87, самый лучший дроп S грейда, но придётся изрядно попотеть, чтобы завалить такого босса, и не факт, что получится с первого раза, но оно того стоит.<br>
+<br>
+В этом списке вообще одни сплошные раритеты - в кого из них не плюнь, попадёшь на что-то особенное:<br>
+Анаким и Лилит появляются только в неделю победы семи печатей, и только один из них, в зависимости от того, чья сторона победила.<br>
+Хекатон и Шадит нужны на 4-й лвл алли, а Тайр и Мос на пятый.<br>
+Квин Шиед находится в такой дыре, что добраться до неё будет ой как непросто, да ещё и вокруг куча обычных мобов, мешающих фармить.<br>
+Все Халиши надёжно спрятаны за шестью комнатами с мобами в Сепах.<br>
+На Эмбере качаются СА 13.<br>
+Урука стоит в самой гуще динозавриков.<br>
+Бракки и Хорус настолько толстокожи, что заковырять их достаточно сложно.<br>
+Настрон и Ашутар запрятаны в тотемах, и сначала надо их оттуда извлечь.<br>
+Сайлрен вообще отдельная песня.<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/gordon-2.jpg" alt="Рейдбосс Knight of Destruction Gordon - L2Vika.ru">
+</center>
+<br>
+В любом случае - дерзайте, думаю, вам понравится.<br>
+<br>
+<br>
+<!--vi-g2//-->
+<!--v3ra//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-3 -->
+<div id="yandex_rtb_R-A-251368-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-3",
+                renderTo: "yandex_rtb_R-A-251368-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Level 80 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/anakim.html">Anakim</a><br>
+<br>
+Level 80 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/lilith.html">Lilith</a><br>
+<br>
+Level 80 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/hekaton.html">Ketra's Hero Hekaton</a><br>
+<br>
+Level 80 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/shadith.html">Varka's Hero Shadith</a><br>
+<br>
+Level 80 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/queen-shyeed.html">Queen Shyeed</a><br>
+<br>
+Level 81 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/shadow-halisha-4.html">Shadow of Halisha A ID 25339</a><br>
+<br>
+Level 81 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/shadow-halisha-b-id25342.html">Shadow of Halisha B ID 25342</a><br>
+<br>
+Level 81 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/shadow-halisha-c-id25346.html">Shadow of Halisha C ID 25346</a><br>
+<br>
+Level 81 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/shadow-halisha-d-id25349.html">Shadow of Halisha D ID 25349</a><br>
+<br>
+Level 84 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/tayr.html">Ketra's Commander Tayr</a><br>
+<br>
+Level 84 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/mos.html">Varka's Commander Mos</a><br>
+<br>
+<br>
+<!--vi-g6-s//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="9347463210"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+Level 85 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/ember.html">Ember</a><br>
+<br>
+Level 86 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/uruka.html">Uruka</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/brakki.html">Ketra's Chief Brakki</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/gordon.html">Knight of Destruction Gordon</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/ashutar.html">Soul of Water Ashutar</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/nastron.html">Soul of Fire Nastron</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/horus.html">Varka's Chief Horus</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/sailren.html">Sealed Evil Power Sailren</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/anays.html">Lord of Splendor Anays</a><br>
+<br>
+Level 87 Raid Boss <a href="https://l2vika.ru/raidboss/80-87/halter.html">High Priestess van Halter</a><br>
+<br>
+<br>
+<!--vi-g3//-->
+<noindex>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vika2-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4017863436294028"
+     data-ad-slot="8296615315"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</noindex>
+<br>
+<br>
+<!--vi-g3//-->
+<!--v2r//-->
+<noindex>
+<!-- Yandex.RTB R-A-251368-4 -->
+<div id="yandex_rtb_R-A-251368-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-251368-4",
+                renderTo: "yandex_rtb_R-A-251368-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</noindex>
+<br>
+<br>
+Нюанс в том, что эти топовые РБ как правило долго не стоят. За каждым из боссов следит куча палилок от разных кланов и одиночных фармеров, респ этих рейдбоссов отслеживается постоянно, и как только РБ появляется, здесь уже кто первый успеет.<br>
+<br>
+<center>
+<img src="../../raidboss/raidboss-screen/tayr-2.jpg" alt="Рейдбосс Ketra Commander Tayr - L2Vika.ru">
+</center>
+<br>
+Если РБ нужен вам по квесту, а фармом вы не занимаетесь, придётся на этом месте отсидеть некоторое количество времени, чтобы дождаться его появления, а затем попроситься в пати к тому, кто первый появится. Если же вы сами фармите РБ, то на них на всех должны стоять ваши чекеры, у вас должен быть список всех боссов, и в этом списке вы должны отмечать респ.<br>
+<br>
+<br>
+<a href="javascript:history.back()">Вернуться на предыдущую страницу</a><br>
+<br>
+<br>
+<br>
+<a href="https://l2vika.ru/raidboss/raidboss-map/raidboss-map.html">карта рейдбоссов</a> &nbsp;<a href="https://l2vika.ru/raid-boss.html">все рейдбоссы Lineage II</a> &nbsp;<a href="https://l2vika.ru/index.html">на главную</a> &nbsp;<a href="https://l2vika.ru/karta-sajta.html">поиск по сайту</a><br>
+<br>
+<!--inn-yv1-ark//-->
+<br>
+<!--v-rk1//-->
+<center>
+<a href="https://l2vika.ru/rejting/anyway/pravila.html" target="_blank"><img src="https://l2vika.ru/img/l2vika-2.gif" alt="Баннер l2vika.ru"></a>
+</center>
+<!-- #v-rk1-->
+
+</div><!-- #content-->
+
+</div><!-- #container-->
+
+</div><!-- #middle-->
+
+
+
+<div class="footer">
+<div class="copy">Copyright &copy; 2008-2023 <a href="https://l2vika.ru/">L2Vika.ru</a>
+</div>
+<center>
+
+<!--LiveInternet counter-->
+
+
+</center>
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+</body>
+</html>
